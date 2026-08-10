@@ -18,7 +18,6 @@ class MyBank {
     // Display Method
     public void display() {
 
-        System.out.println("\n------ ACCOUNT DETAILS ------");
         System.out.println("Account Number : " + acc_no);
         System.out.println("Balance        : " + balance);
         System.out.println("irate is :"+ir);
@@ -70,7 +69,7 @@ public class Mcabank {
         System.out.print("Enter  Account Number : ");
         int acc = sc.nextInt();
 
-     
+    
         MyBank b1 = new MyBank(acc);
         // MyBank b2 =new  MyBank(acc);
         
@@ -80,7 +79,7 @@ public class Mcabank {
 
         while (true) {
 
-            System.out.println("\n========== MY BANK ==========");
+            System.out.println("MY BANK");
             System.out.println("1. Display Details");
             System.out.println("2. Check Balance");
             System.out.println("3. Deposit");
