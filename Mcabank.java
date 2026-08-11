@@ -18,6 +18,9 @@ class MyBank {
     // Display Method
     public void display() {
 
+
+        
+
         System.out.println("Account Number : " + acc_no);
         System.out.println("Balance        : " + balance);
         System.out.println("irate is :"+ir);
@@ -38,18 +41,18 @@ class MyBank {
         System.out.println("Current Balance : " + balance);
     }
 
-    // Withdraw Method
+    // Withdraw Methodd
     public void withdraw(double amount) {
 
         if (balance - amount >= 10000) {
 
             balance = balance - amount;
 
-            System.out.println("Withdraw Successful...");
+            System.out.println("Withdraw compate");
             System.out.println("Current Balance :" + balance);
         } else {
 
-            System.out.println("Minimum Balance Must Be 10000");
+            System.out.println("Minimum Balance 10000");
         }
     }
 }
@@ -65,6 +68,26 @@ public class Mcabank {
         System.out.println("WELCOME TO  " +MyBank.bankname);
 
         Scanner sc = new Scanner(System.in);
+
+        // System.out.println("enter userId : ");
+        // String userid = sc.next();
+
+        System.out.print("Enter User ID: ");
+        String userid = sc.next();
+
+System.out.print("Enter Password: ");
+String password = sc.next();
+
+if(userid.equals("kavan") && password.equals("1234"))
+{
+    System.out.println("Login Successful");
+
+    // અહીં તમારો Bank Menu
+}
+else
+{
+    System.out.println("Invalid User ID or Password");
+}
 
         System.out.print("Enter  Account Number : ");
         int acc = sc.nextInt();
@@ -117,7 +140,6 @@ public class Mcabank {
 
                 case 5:
 
-                    System.out.println("Thank You...");
                     sc.close();
                     System.exit(0);
 
