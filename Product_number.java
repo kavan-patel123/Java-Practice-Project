@@ -14,7 +14,7 @@ public class Product_number
 
         for(int i=1;i<=n;i++)
         {
-            System.out.println("number is : "+i);
+            // System.out.println("number is : "+i);
     
         num = num*i;
         }
