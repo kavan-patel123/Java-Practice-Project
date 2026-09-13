@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Parameter_cons",
+      "request": "launch",
+      "mainClass": "Parameter_cons",
+      "projectName": "Java-Practice-Project_cccc2a3f"
+    },
+    {
+      "type": "java",
+      "name": "StarPattern1",
+      "request": "launch",
+      "mainClass": "StarPattern1",
+      "projectName": "Java-Practice-Project_cccc2a3f"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
