@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pracent_value_array",
+      "request": "launch",
+      "mainClass": "Pracent_value_array",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Student_array3",
+      "request": "launch",
+      "mainClass": "Student_array3",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Student_array2",
+      "request": "launch",
+      "mainClass": "Student_array2",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Student_array1",
+      "request": "launch",
+      "mainClass": "Student_array1",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "Parameter_cons",
       "request": "launch",
       "mainClass": "Parameter_cons",
