@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Method_overlodming12",
+      "request": "launch",
+      "mainClass": "Method_overlodming12",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Person_1234",
+      "request": "launch",
+      "mainClass": "Person_1234",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "Pracent_value_array",
       "request": "launch",
       "mainClass": "Pracent_value_array",
