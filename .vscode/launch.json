@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main5",
+      "request": "launch",
+      "mainClass": "Main5",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "Method_overlodming12",
       "request": "launch",
       "mainClass": "Method_overlodming12",
