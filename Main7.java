@@ -1,0 +1,25 @@
+
+import java.util.*;
+
+
+public class Main7{
+
+    public static void main(String[] args) {
+        
+        Scanner sc=new Scanner(System.in);
+
+        System.out.println("enter first no  : ");
+        int a=sc.nextInt();
+
+        System.out.println("enter second no : ");
+        int b=sc.nextInt();
+
+
+        a=Integer.parseInt(args[0]);
+        b=Integer.parseInt(args[1]);
+
+        int sum=a+b;
+
+        System.out.println("sum :"+sum);
+    }
+}
