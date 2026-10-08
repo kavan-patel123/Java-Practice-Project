@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main16",
+      "request": "launch",
+      "mainClass": "Main16",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Main15",
+      "request": "launch",
+      "mainClass": "Main15",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Main14",
+      "request": "launch",
+      "mainClass": "Main14",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "ThrowException",
+      "request": "launch",
+      "mainClass": "ThrowException",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Arithmeticexception",
+      "request": "launch",
+      "mainClass": "Arithmeticexception",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "MAin12",
       "request": "launch",
       "mainClass": "MAin12",
