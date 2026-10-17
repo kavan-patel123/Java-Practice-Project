@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Logic_7",
+      "request": "launch",
+      "mainClass": "Logic_7",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Logic_11",
+      "request": "launch",
+      "mainClass": "Logic_11",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Logic_10",
+      "request": "launch",
+      "mainClass": "Logic_10",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Logic_2",
+      "request": "launch",
+      "mainClass": "Logic_2",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Logic_1",
+      "request": "launch",
+      "mainClass": "Logic_1",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "Main16",
       "request": "launch",
       "mainClass": "Main16",
